@@ -13,10 +13,7 @@ below is the screenshot of that app in Window :-
 
 # Main Screen
 <p align="center">
-  
-  
-  
- <img src="https://user-images.githubusercontent.com/128953865/229284412-91bf30ab-1381-4472-a61f-463fd09eda72.png" width="250"height="450" title="hover text">
+    <img src="https://user-images.githubusercontent.com/128953865/229284412-91bf30ab-1381-4472-a61f-463fd09eda72.png" width="250"height="450" title="hover text">
 
 </p>
 
