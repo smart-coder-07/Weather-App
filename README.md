@@ -19,17 +19,11 @@ below is the screenshot of that app in Window :-
 
 # Second screen
 
-this screen fetch location automatically and show temperature of current location
+you can type any city name show this app show the temprature of any city not show temprature only it has show the wind speed and humidity also:-
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68633415/210749978-ff47890c-e12e-4d96-ae2d-a50b79838535.jpg" width="250"height="450"  title="hover text">
+    <img src="https://user-images.githubusercontent.com/128953865/229284860-e58f6564-0f2c-453b-a68d-19f1a9f5fe8c.png" width="450"height="300" title="hover text">
   </p>
- 
- # Third screen
- Here we can type Any city name and get weather update of that city 
- <p align="center">
- <img src="">
- </p>
  
  
  # we can also run this app in iOS and web as well with same output
